@@ -112,7 +112,256 @@
 			
 			<div class="row">
 
-				
+			<!-- Resume page -->
+<div id="home_page" class="page">
+	<h1 class="page_title color_title">Resume</h1>
+
+	<hr class="hr_line" />
+
+	<!-- Left side -->
+	<div class="col-md-8 anim_element" data-animation="fadeInLeft">
+
+		<!-- Employment -->
+		<div class="employment res_block">
+
+			<div class="title color_title">
+				<i class="fa fa-clock-o"></i>Arbejdssteder
+			</div>
+
+			<div class="item">
+				<span class="date col-md-2">2011 Mar – Jul 2013</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Salgsmedarbejder</span>
+					<div class="inner">
+						<span class="subtext color">OK+<span class="location"> &bull; Esrumvej 90, 3000 Helsingør</span></span>
+						<span class="text">Arbejdet hos OK, var en innovativ måde at lærer at håndtere kunder, og ligeledes betjene en kasse samtidig. Arbejdsopgaverne var meget svingende fra dag til dag, men hovedopgaverne var som følger: Betjening af kassen, kundehåndtering, tæller penge / Regnskab / Nøglebærer.</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="item">
+				<span class="date col-md-2">2013 Nov – Dec 2013</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Supersælger</span>
+					<div class="inner">
+						<span class="subtext color">Shell<span class="location"> &bull; Engtoftevej 41, 9000 Aalborg</span></span>
+						<span class="text">Betjening af kassen samt kunder, dertil regnskab og kasseopgørelse. Samarbejdet blev opsagt, siden der ikke kunne skabes en fornuftig konversion med chefen.</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="item">
+				<span class="date col-md-2">2013 Feb – Apr 2014</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Direktør</span>
+					<div class="inner">
+						<span class="subtext color">Hwbutikken<span class="location"> &bull; Steen Billes gade 15, 3TH, 9000 Aalborg</span></span>
+						<span class="text">Hwbutikken er en virksomhed som har fokus, på at sælge elektronik (hardware og ledninger mm.) til en billig pris. Systemet er udviklet fra bunden med integration til vores leverandør, som gør at vi altid har en opdateret prisliste. Systemet er udviklet i webprogrammering heraf PHP som hovedsprog. Virksomheden blev lukket ned, pga. manglende tid.</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<span class="date col-md-2">2011 Maj – Nu</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Direktør</span>
+					<div class="inner">
+						<span class="subtext color">Swifthosting I/S<span class="location"> &bull; Ribevej 3, 1, 50, 9220 Aalborg Øst</span></span>
+						<span class="text">
+						Daglig leder samt driftleder for Swifthosting, i forhold til backend med servere, switches, routere.<br>
+						Swifthosting I/S driver ligeledes en række underselskaber med følgende navne:
+						<br><br>
+						Goingpro.dk<br>
+						Minecraft-hosting.dk<br>
+						Diamondhosting.dk<br>
+						Creeperhost.dk<br>
+						Redstonehosting.dk<br>
+						Craftbukkit.dk<br>
+						Porkhosting.dk<br>
+						<br>
+						Dertil har Swifthosting I/S en Minecraftliste, som overvåger servere, via følgende hjemmeside:
+						Craftlist.dk
+						</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="clear"></div>
+
+		</div>
+		<!-- /Employment -->
+
+		<!-- Education -->
+		<div class="education res_block">
+
+			<div class="title color_title">
+				<i class="fa fa-pencil-o"></i>Uddannelse
+			</div>
+
+			<div class="item">
+				<span class="date col-md-2">2012 - present</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Masters of Engineering</span>
+					<div class="inner">
+						<span class="subtext color"><span class="location">Name of University</span></span>
+						<span class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis.</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="item">
+				<span class="date col-md-2">2005 - 2008</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Computer Science</span>
+					<div class="inner">
+						<span class="subtext color"><span class="location">Name of University</span></span>
+						<span class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis.</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="item">
+				<span class="date col-md-2">2005 - 2008</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<span class="type">Graphic Design</span>
+					<div class="inner">
+						<span class="subtext color"><span class="location">Name of University</span></span>
+						<span class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis.</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="clear"></div>
+
+		</div>
+		<!-- /Education -->
+
+		<!-- Awards -->
+		<div class="awards res_block">
+
+			<div class="title color_title">
+				Deltagelser
+			</div>
+
+			<div class="award">
+				<span class="date col-md-2">2014 Sep - 2015 Aug</span>
+				<div class="body col-md-10">
+					<i class="fa fa-circle color"></i>
+					<div class="title">Bestyrelsesmedlem</div>
+					<div class="inner">
+						<span class="subtext color">Kvadratet<span class="location"> &bull; Ribevej 3, 1, 50, 9220 Aalborg Øst</span></span>
+						<div class="text">Bestyrelsen på Kvadratet i Himmerland boligforening, har mange forskellige opgaver, som kræver både handlekraft, samt innovation. Dette kommer i spil, når samarbejde mellem beboere, samt Himmerland skal koordineres.</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+		</div>
+		<!-- /Awards -->
+	
+	</div>
+	<!-- /Left side -->
+
+	<!-- Right side -->
+	<div class="col-md-4 anim_element" data-animation="fadeInRight">
+
+		<!-- Skills -->
+		<div class="skills">
+			<h1 class="color_title"><i class="fa fa-bolt"></i>Mine Erfaringer</h1>
+			
+			<div class="block">
+				<h2><i class="fa fa-pencil"></i>Graphic</h2>
+				<span class="skill">
+					<span class="color" data-width="95%"><span class="name"><span class="text">Photoshop - <strong>95%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="65%"><span class="name"><span class="text">Illustrator - <strong>65%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="70%"><span class="name"><span class="text">Flash - <strong>70%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="80%"><span class="name"><span class="text">After Effects - <strong>80%</strong></span></span></span>
+				</span>
+			</div>
+			
+			<div class="block">
+				<h2><i class="fa fa-code"></i>Programming</h2>
+				<span class="skill">
+					<span class="color" data-width="95%"><span class="name"><span class="text">HTML &amp; CSS - <strong >95%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="90%"><span class="name"><span class="text">PHP - <strong>90%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="60%"><span class="name"><span class="text">Javascript - <strong>60%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="75%"><span class="name"><span class="text">jQuery - <strong>75%</strong></span></span></span>
+				</span>
+			</div>
+			
+			<div class="block">
+				<h2><i class="fa fa-desktop"></i>Design</h2>
+				<span class="skill">
+					<span class="color" data-width="80%"><span class="name"><span class="text">Web Design - <strong >80%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="65%"><span class="name"><span class="text">Graphic Design - <strong>65%</strong></span></span></span>
+				</span>
+				<span class="skill">
+					<span class="color" data-width="70%"><span class="name"><span class="text">Logo Design - <strong>70%</strong></span></span></span>
+				</span>
+			</div>
+
+		</div>
+		<!-- /Skills -->
+
+		<!-- Tools -->
+		<div class="tools">
+
+			<h1 class="color_title"><i class="fa fa-wrench"></i>Tools i use</h1>
+
+			<div class="tool">Photoshop</div>
+			<div class="tool">After Effects</div>
+			<div class="tool">jQuery</div>
+			<div class="tool">Wordpress</div>
+			<div class="tool">Joomla</div>
+			<div class="tool">Drupal</div>
+			<div class="tool">Bootstrap</div>
+
+		</div>
+		<!-- /Tools -->
+
+		<!-- vCard Download -->
+		<div class="download_vcard">
+			<a href="#"><span class="text"><i class="fa fa-download"></i><span>DOWNLOAD RESUME</span></span></a>
+		</div>
+		<!-- /vCard Download -->
+
+	</div>
+	<!-- /Right side -->
+
+
+	<div class="clear"></div>
+
+</div>
+<!-- /Resume Page -->
+
 
 				
 
@@ -126,7 +375,7 @@
 		<!-- Footer -->
 		<div id="footer">
 			<div class="inner">
-				<?=date(Y);?> &copy; Mads Edelskjold.
+				2015-2030 &copy; Mads Edelskjold.
 			</div>
 		</div>
 		<!-- /Footer -->
