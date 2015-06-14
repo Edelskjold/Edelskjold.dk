@@ -32,7 +32,7 @@
 
 			<!-- Left side -->
 			<div class="left col-md-3 omega">
-				<img src="img/profile.jpeg" alt="photo" />
+				<img src="img/profile.jpeg" width="205px" alt="photo" />
 			</div>
 			<!-- /Left side -->
 
