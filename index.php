@@ -32,7 +32,7 @@
 
 			<!-- Left side -->
 			<div class="left col-md-3 omega">
-				<img src="img/profile_picture.jpg" alt="photo" />
+				<img src="img/profile.jpeg" alt="photo" />
 			</div>
 			<!-- /Left side -->
 
@@ -77,7 +77,7 @@
 			<div class="row">
 				<div class="left col-md-2">
 					<div class="img">
-						<a href="img/profile_picture.jpg" class="image_popup">
+						<a href="img/profile.jpeg" class="image_popup">
 							<span class="name">Mads Edelskjold</span>
 							<img src="img/profile.jpeg" width="205px" alt="Profile Picture Mads Edelskjold" />
 						</a>
